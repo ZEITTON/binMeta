@@ -20,7 +20,7 @@ import java.util.Iterator;
 import java.util.Random;
 
 public class Knapsack implements Objective
-{
+{ //TODO suppr les com en CAPSLOCK
    // attributes
    private ArrayList<Double> listOfValues;
    private ArrayList<Double> listOfWeights;
